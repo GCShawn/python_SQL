@@ -1,0 +1,2 @@
+# python_SQL
+简单的通过python对数据库进行数据分析和Excel输出的原型
